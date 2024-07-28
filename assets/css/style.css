@@ -171,7 +171,15 @@ main .container button#submitBt{
 }
     
 
+/* responsevness */
 
+@media screen and (max-width: 426px) {
+    main .container,
+    .thanks-msg{
+    width: 90%;
+}
+    
+}
 
 
 
